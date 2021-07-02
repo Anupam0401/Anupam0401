@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any any projects that invovles web development, programming in C++ or Python, involves Machine Learning.
 - 📫 How to reach me :
               * Mail me on [anupamkumar0401@gmail.com](anupamkumar0401@gmail.com)
-              * You can also find me on [![instagram](https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif)](https://www.instagram.com/anupam_004/)
+              * You can also find me on [![instagram](https://www.flaticon.com/free-icon/instagram_2111463)](https://www.instagram.com/anupam_004/)
 
 
 <!---
