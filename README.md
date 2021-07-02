@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Anupam0401
 - 👀 I’m interested in programming, full stack web development and Machine Learning
 - 🌱 I’m currently learning Machine Learning and advanced Python
-- 💻📝 As a part of college courses and some online sources, I have good knowledge of programming languages such as C, C++, Python, Java, courses such as Data Structure and Algorithms, DBMS, OS and full stack web development.
+- 💻📝 As a part of college courses and some online sources, I have good knowledge of programming languages such as C, C++, Python, Java, HTML, CSS and JS and courses such as Data Structure and Algorithms, DBMS, OS and full stack web development.
+    - Please find my projects in my github repositories
 - 💞️ I’m looking to collaborate on any any projects that invovles web development, programming in C++ or Python, involves Machine Learning.
 
 * **📫Reach me via :**
