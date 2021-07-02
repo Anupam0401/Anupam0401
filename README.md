@@ -6,7 +6,7 @@
 
 * **📫Reach me via :**
   * [<img src="https://user-images.githubusercontent.com/55993073/124291518-47114180-db72-11eb-81cd-85807dde44f7.png" width="25" height="25">](anupamkumar0401@gmail.com) 
-  * [<img src="(https://user-images.githubusercontent.com/55993073/124290803-80957d00-db71-11eb-862e-4674e2c1a220.png" width="25" height="25">](https://www.instagram.com/anupam_004/)
+  * [<img src="(https://user-images.githubusercontent.com/55993073/124291644-660fd380-db72-11eb-9dde-127651dc6d1d.png" width="25" height="25">](https://www.instagram.com/anupam_004/)
   * [<img src="https://user-images.githubusercontent.com/55993073/124290881-999e2e00-db71-11eb-9f03-f8a199ae4fc1.png" width="25" height="25">](https://www.linkedin.com/in/anupam-kumar-17b0b9210/)
 
 
