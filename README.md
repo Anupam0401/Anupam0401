@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Machine Learning and advanced Python
 - 💞️ I’m looking to collaborate on any any projects that invovles web development, programming in C++ or Python, involves Machine Learning.
 - 📫 How to reach me :
-* Mail me on [anupamkumar0401@gmail.com](anupamkumar0401@gmail.com)
-* You can also find me on [<img src="https://media.giphy.com/media/eTtXHP8CyQHHa4M8EM/giphy.gif" width="10" height="10">](https://www.instagram.com/anupam_004/)
+* Mail me on [<i class="far fa-envelope"></i>](anupamkumar0401@gmail.com)
+* You can also find me on [<img src="https://media.giphy.com/media/eTtXHP8CyQHHa4M8EM/giphy.gif" width="20" height="20">](https://www.instagram.com/anupam_004/)
 
 
 <!---
