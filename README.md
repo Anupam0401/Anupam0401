@@ -7,7 +7,7 @@
 * **📫Reach me via :**
   * [Mail📧](anupamkumar0401@gmail.com) 
   * [<img src="https://media.giphy.com/media/eTtXHP8CyQHHa4M8EM/giphy.gif" width="25" height="25">](https://www.instagram.com/anupam_004/)
-  * [<img src="https://media.giphy.com/media/eTtXHP8CyQHHa4M8EM/giphy.gif" width="25" height="25">](https://www.linkedin.com/in/anupam-kumar-17b0b9210/)
+  * [<img src="https://user-images.githubusercontent.com/55993073/124290881-999e2e00-db71-11eb-9f03-f8a199ae4fc1.png" width="25" height="25">](https://www.linkedin.com/in/anupam-kumar-17b0b9210/)
   * ![instagram](https://user-images.githubusercontent.com/55993073/124290803-80957d00-db71-11eb-862e-4674e2c1a220.png)
   * ![linked in](https://user-images.githubusercontent.com/55993073/124290881-999e2e00-db71-11eb-9f03-f8a199ae4fc1.png)
 
