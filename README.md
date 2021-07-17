@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and advanced Python
 - 💻📝 As a part of college courses and some online sources, I have good knowledge of programming languages such as C, C++, Python, Java, HTML, CSS and JS and courses such as Data Structure and Algorithms, DBMS, OS and full stack web development.
     - I have some experience working with Node.js, React.js, MongoDB, SQL, MySQL, Latex and Yacc
-    - Please find my [projects](https://github.com/Anupam0401?tab=repositories) in my github repositories
+    - Please find some of my [projects](https://github.com/Anupam0401?tab=repositories) on github
 - 💞️ I’m looking to collaborate on any any projects that invovles web development, programming in C++ or Python, involves Machine Learning.
 
 * **📫Reach me via :**
