@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anupam0401
-- 👀 I’m interested in programming, full stack web development and Machine Learning. I also like drawing and painting mostly in free time
+- 👀 I’m interested in programming, full stack web development and Machine Learning. I also like drawing and painting mostly in free time.
 - 🌱 I’m currently learning Machine Learning and advanced Python
 - 💻📝 As a part of college courses and some online sources, I have good knowledge of programming languages such as C, C++, Python, Java, HTML, CSS and JS and courses such as Data Structure and Algorithms, DBMS, OS and full stack web development.
     - I have some experience working with Node.js, React.js, MongoDB, SQL, MySQL, Latex and Yacc
