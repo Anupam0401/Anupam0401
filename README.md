@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Anupam0401
+- 👋 Hi there, I’m Anupam
 - 👀 I’m interested in Machine Learning, Data Science, AI and IoT technologies. I like to keep myself updated with the latest technologies.
-- 🌱 I’m currently learning Machine Learning, Data analytics, Authentication and Security.
+<!-- - 🌱 I’m currently learning Machine Learning, Data analytics, Authentication and Security.
 - 💻📝 As a part of college courses and some online sources, I have good knowledge of programming languages such as C, C++, Python, Java, HTML, CSS and JS and courses such as Data Structure and Algorithms, DBMS, OS and full stack web development.
     - I have some experience working with Node.js, React.js, MongoDB, SQL, MySQL, Latex and Yacc
-    - Please find some of my [projects](https://github.com/Anupam0401?tab=repositories) on github
+    - Please find some of my [projects](https://github.com/Anupam0401?tab=repositories) on github -->
 - 💞️ I’m looking to collaborate on projects that involve web development, programming in C++ or Python, involves Machine Learning, Data Science or Artificial Intelligence.
 
 * **📫Reach me via :**
