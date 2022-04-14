@@ -7,9 +7,11 @@
 - 💞️ I’m looking to collaborate on projects that involve web development, programming in C++ or Python, involves Machine Learning, Data Science or Artificial Intelligence.
 
 * **📫Reach me via :**
-  * [<img src="https://user-images.githubusercontent.com/55993073/124291518-47114180-db72-11eb-81cd-85807dde44f7.png" width="25" height="25">](mailto:anupamkumar0401@gmail.com) 
+[<img src="https://user-images.githubusercontent.com/55993073/124291518-47114180-db72-11eb-81cd-85807dde44f7.png" width="25" height="25">](mailto:anupamkumar0401@gmail.com) &emsp; [<img src="https://user-images.githubusercontent.com/55993073/124290881-999e2e00-db71-11eb-9f03-f8a199ae4fc1.png" width="25" height="25">](https://www.linkedin.com/in/anupam-kumar-17b0b9210/)
+  &emsp; [<img src="https://user-images.githubusercontent.com/55993073/124386223-0f7fd200-dcf7-11eb-9bfc-6a07d1790ca2.png" width="25" height="25">](https://wa.me/6202684631)
+<!--   * [<img src="https://user-images.githubusercontent.com/55993073/124291518-47114180-db72-11eb-81cd-85807dde44f7.png" width="25" height="25">](mailto:anupamkumar0401@gmail.com) 
   * [<img src="https://user-images.githubusercontent.com/55993073/124290881-999e2e00-db71-11eb-9f03-f8a199ae4fc1.png" width="25" height="25">](https://www.linkedin.com/in/anupam-kumar-17b0b9210/)
-  * [<img src="https://user-images.githubusercontent.com/55993073/124386223-0f7fd200-dcf7-11eb-9bfc-6a07d1790ca2.png" width="25" height="25">](https://wa.me/6202684631)
+  * [<img src="https://user-images.githubusercontent.com/55993073/124386223-0f7fd200-dcf7-11eb-9bfc-6a07d1790ca2.png" width="25" height="25">](https://wa.me/6202684631) -->
 
 
 
