@@ -4,7 +4,7 @@
 - 💻📝 As a part of college courses and some online sources, I have good knowledge of programming languages such as C, C++, Python, Java, HTML, CSS and JS and courses such as Data Structure and Algorithms, DBMS, OS and full stack web development.
     - I have some experience working with Node.js, React.js, MongoDB, SQL, MySQL, Latex and Yacc
     - Please find some of my [projects](https://github.com/Anupam0401?tab=repositories) on github -->
-- 💞️ I’m looking to collaborate on projects that involve web development, programming in C++ or Python, involves Machine Learning, Data Science or Artificial Intelligence. -->
+<!-- - 💞️ I’m looking to collaborate on projects that involve web development, programming in C++ or Python, involves Machine Learning, Data Science or Artificial Intelligence. --> -->
 
 * **📫Reach me via :** &emsp; &emsp;
 [<img src="https://user-images.githubusercontent.com/55993073/124291518-47114180-db72-11eb-81cd-85807dde44f7.png" width="25" height="25">](mailto:anupamkumar0401@gmail.com) &emsp; [<img src="https://user-images.githubusercontent.com/55993073/124290881-999e2e00-db71-11eb-9f03-f8a199ae4fc1.png" width="25" height="25">](https://www.linkedin.com/in/anupam-kumar-17b0b9210/)
