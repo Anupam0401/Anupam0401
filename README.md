@@ -16,7 +16,7 @@
 [![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupam0401&show_icons=true&theme=tokyonight&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam0401&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam0401&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anupamk)](https://github.com/anuraghazra/github-readme-stats)
 <!---
