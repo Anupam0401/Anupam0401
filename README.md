@@ -13,7 +13,7 @@
   * [<img src="https://user-images.githubusercontent.com/55993073/124290881-999e2e00-db71-11eb-9f03-f8a199ae4fc1.png" width="25" height="25">](https://www.linkedin.com/in/anupam-kumar-17b0b9210/)
   * [<img src="https://user-images.githubusercontent.com/55993073/124386223-0f7fd200-dcf7-11eb-9bfc-6a07d1790ca2.png" width="25" height="25">](https://wa.me/6202684631) -->
 
-[![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupam0401&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anupam0401&show_icons=true&theme=tokyonight&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam0401&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
